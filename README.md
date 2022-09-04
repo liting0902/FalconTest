@@ -1,5 +1,5 @@
 # FalconTest
-For your convenient ,
+For your convenience ,
 you could go to https://falcon-test.vercel.app/ directly ,
 or running the project by steps as below:
 
