@@ -4,6 +4,6 @@ you could go to https://falcon-test.vercel.app/ directly ,
 or running the project by steps as below:
 
 # Runiing steps: 
-npm install
-npm run dev
-[open link] (http://localhost:3333/)
+1. npm install
+2. npm run dev
+3. [open link] (http://localhost:3333/)
